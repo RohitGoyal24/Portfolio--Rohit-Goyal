@@ -1,0 +1,43 @@
+{
+	"name":"Rohit Goyal",
+	"profession":"FULL STACK WEB DEVELOPER",
+	"description":"I am  a Full Stack Developer Looking for job. ",
+	"highlights":"PERSONAL HIGHLIGHTS", 
+	"highlightscontent":["Cheerful","Neat and well-organized","Self-Motivated","Independent-worker","Works well with deadlines","Collaborative and efficient"],
+	"detail":"CONTACT DETAILS",
+	"contactdetails":{
+		"address":"House No:46 Ram Nagar Coloney Near Shani Mandir",
+		"city": "Bokaro Steel City, Jharkhand",
+		"country":"India"},
+	"email":"rohitgoyal.kv@gmail.com",
+	"tel":"636-476-9938",
+	"basic":"BASIC<br>INFORMATION",
+	"basicinformation":"I am a Fresher having an experience with Full Stack  Development over 6 months in a  startup company and Now actively Looking for the Job in Realted to the I.T Filed were I could contribute my software skills  as a software professional.",
+	"edutitle":"EDUCATION",
+	"education": {
+		"school1":" Sathyabama Institute of Science & Technology",
+		"batch":"2018",
+		"degree1":"Bachelors in Computer Science",
+        "association":"Sathyabama University",
+        "Cgpa":"6.78 cgpa",
+		"location":"Chennai",
+		"school2":"Guru Gobind Singh Public School",
+		"degree2":"12th",
+        "board":"C.B.S.E",
+        "percentage":"63%",
+		"location3":"Bokaro Steel City"
+	},
+	"exptitle":"PROFESSIONAL EXPERIENCE",
+	"experience":{
+		"job1":"Software Developer Trainee, Mobiot Technologies.",
+		"location1":{
+			"city": "Bangalore, Karnataka",
+            "country":"India",
+            "details":"Description",
+            "description":"Done Lot of editing and modification parts for the client satisfaction.",
+            "description1":"Worked on project of client and made some static pages for them with login too.",
+            "description2":"Worked on the project were were I worked on Mapping module in which I got an experienced with json format for passing data.",
+            "description3":"Done the full end to end converting of our old UI for our company product to new UI with the themeforest theme in the new release of our web app"
+		}
+	}
+}
